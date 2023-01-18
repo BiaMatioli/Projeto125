@@ -1,0 +1,28 @@
+.tagh3{
+    color: #7D80DA;
+    background-color: #553555;
+    font-size: medium;
+    width: 100%;
+    margin: 15px;
+    box-shadow: 1px 5px 15px #B0A3D4;
+}
+
+.span {
+    color: #96C5B0;
+    font-size: 15px;
+}
+
+#copyright{
+    position: fixed;
+    color: #96C5B0;
+    background-color: #EFBC9B;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+}
+
+canvas{
+    border: 10px;
+    border-radius: 25px;
+    box-shadow: 1px 5px 15px #B0A3D4;
+}
